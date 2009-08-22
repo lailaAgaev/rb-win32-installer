@@ -4,8 +4,8 @@
 
 ; Installer defines
 !define PRODUCT_NAME          "Review Board"
-!define PRODUCT_VERSION       "1.0 alpha 4"
-!define PRODUCT_NORM_VERSION  "1.0alpha4"
+!define PRODUCT_VERSION       "1.0.1"
+!define PRODUCT_NORM_VERSION  "1.0.1"
 !define PRODUCT_PUBLISHER     "The Review Board Project"
 !define PRODUCT_WEB_SITE      "http://www.review-board.org/"
 
